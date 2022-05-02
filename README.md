@@ -23,6 +23,10 @@
 ![h4](https://user-images.githubusercontent.com/103216638/166206310-5c03b897-5c1f-412d-a4a7-b19fe4cf7e53.PNG)
 
 #### 1 - Mostramos los contenedores en ejecución 
+
+![h6](https://user-images.githubusercontent.com/103216638/166206730-a1756883-7adf-4ea0-a37f-7d902047f155.PNG)
+
 #### 2 - Mostrar todos los contenedores creados ya estén en ejecución
 
-![h5](https://user-images.githubusercontent.com/103216638/166206585-c771b91d-2c5c-4701-a16a-1b0541623bfc.PNG)
+![h7](https://user-images.githubusercontent.com/103216638/166206795-1a54b891-619e-4251-8d48-006fcaccfd98.PNG)
+
