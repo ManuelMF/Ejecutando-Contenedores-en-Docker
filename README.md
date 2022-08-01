@@ -1,4 +1,4 @@
-# Docker-01-EjecutandoContenedores
+# Ejecutando Contenedores en Docker
 ## EJEMPLO 1: 
 ### Primero vamos a descargar  una imagen de manera previa
 #### con el siguiente comando la descargaríamos $docker pull ubuntu:18.04
